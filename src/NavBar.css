@@ -1,0 +1,11 @@
+nav > * {
+    margin-left: 14px;
+}
+
+.navbar a.active{
+    color: #3498db;
+}
+
+.navbar a{
+    color: #2c3e50;
+}
